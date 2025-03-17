@@ -1,0 +1,44 @@
+CLOUD COMPUTING
+Cloud computing is defined as the use of hosted services, 
+such as data storage, servers, databases, networking, and
+software over the internet. Since cloud computing began,
+the world has witnessed an explosion of cloud-based 
+applications and services in IT, which continue to expand.
+Almost every application we use resides on the cloud,
+helping us save storage space, expenses, and time. 
+This article discusses the types of cloud computing and 
+10 trends to watch out for.
+
+Cloud Computing Architecture:
+Instead of storing files on a storage device or hard drive,
+a user can save them on cloud, making it possible to access 
+the files from anywhere, as long as they have access to the 
+web. The services hosted on cloud can be broadly divided 
+into infrastructure-as-a-service (IaaS), platform-as-a-service
+(PaaS), and software-as-a-service (SaaS). Based on the 
+deployment model, cloud can also be classified as public, 
+private, and hybrid cloud.
+
+Further, cloud can be divided into two different layers, 
+namely, front-end and back-end. The layer with which users 
+interact is called the front-end layer. This layer enables a 
+user to access the data that has been stored in cloud through 
+cloud computing software.
+
+Types of Cloud Computing:
+Private cloud
+Public cloud
+Hybrid cloud
+Infrastructure as a service (IaaS)
+Platform as a service (PaaS)
+Software as a service (SaaS)
+
+Amazon Web Services:
+Amazon Web Services (AWS) is a leading top platform in 
+providing the web services of various domains. AWS follows 
+the trends of digital IT and comes up needy services with 
+optimized performances covering a wide range of services from 
+Compute to Storage. It covers a wider range of customers of 
+different domains to expand their business operations. This 
+Article covers the fundamentals of AWS and its scope of IT 
+business.
